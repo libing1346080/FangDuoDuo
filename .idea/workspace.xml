@@ -48,15 +48,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_22GenerateParentheses.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_22GenerateParentheses.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/_22GenerateParentheses.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
-              <folding>
-                <element signature="e#159#160#0" expanded="true" />
-                <element signature="e#217#218#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="190">
+              <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_23MergeKSortedLists.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/_23MergeKSortedLists.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="394">
+              <caret line="39" column="19" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="39" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ListNode.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/ListNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -84,6 +101,8 @@
         <option value="$PROJECT_DIR$/src/leetcode/_17LetterCombinationOfPhoneNumber.java" />
         <option value="$PROJECT_DIR$/src/leetcode/_4Sum.java" />
         <option value="$PROJECT_DIR$/src/leetcode/_22GenerateParentheses.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/_23MergeKSortedLists.java" />
       </list>
     </option>
   </component>
@@ -157,7 +176,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -645,12 +664,12 @@
       <updated>1497857395594</updated>
       <workItem from="1497857415508" duration="8329000" />
       <workItem from="1498013391176" duration="757000" />
-      <workItem from="1498016563752" duration="3422000" />
+      <workItem from="1498016563752" duration="6456000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12508000" />
+    <option name="totallyTimeSpent" value="15542000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -770,12 +789,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/_22GenerateParentheses.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
-          <folding>
-            <element signature="e#159#160#0" expanded="true" />
-            <element signature="e#217#218#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="190">
+          <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/_23MergeKSortedLists.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="39" column="19" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="39" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>

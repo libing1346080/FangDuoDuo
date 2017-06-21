@@ -6,6 +6,7 @@ import java.util.*;
 public class _22GenerateParentheses {
     public static void main(String[] args) {
         System.out.println(generateParenthesis(3));
+        System.out.println(Test.CONSTANT);
     }
     public static List<String> generateParenthesis(int n){
         List<String> res = new ArrayList<>();
@@ -26,3 +27,6 @@ public class _22GenerateParentheses {
         }
     }
  }
+class Test{
+        static final int  CONSTANT = 10; //private只能自己包内查看
+        }
