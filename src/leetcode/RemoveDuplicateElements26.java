@@ -7,6 +7,8 @@ public class RemoveDuplicateElements26 {
     public static void main(String[] args) {
         int[] nums = {1, 1, 2};
         System.out.println(removeDuplicate(nums));
+        Integer a = 10;
+        long testlong = a;
     }
     public static int removeDuplicate(int[] nums){
         if(nums == null || nums.length == 0) return 0;
